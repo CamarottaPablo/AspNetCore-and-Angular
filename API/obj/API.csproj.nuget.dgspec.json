@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pablo_Camarotta\\Desktop\\DatingApp\\api\\API.csproj": {}
+    "c:\\Users\\Pablo_Camarotta\\Desktop\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pablo_Camarotta\\Desktop\\DatingApp\\api\\API.csproj": {
+    "c:\\Users\\Pablo_Camarotta\\Desktop\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pablo_Camarotta\\Desktop\\DatingApp\\api\\API.csproj",
+        "projectUniqueName": "c:\\Users\\Pablo_Camarotta\\Desktop\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Pablo_Camarotta\\Desktop\\DatingApp\\api\\API.csproj",
+        "projectPath": "c:\\Users\\Pablo_Camarotta\\Desktop\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Pablo_Camarotta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pablo_Camarotta\\Desktop\\DatingApp\\api\\obj\\",
+        "outputPath": "c:\\Users\\Pablo_Camarotta\\Desktop\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pablo_Camarotta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,6 +52,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.22.1, )"
             }
           },
           "imports": [
