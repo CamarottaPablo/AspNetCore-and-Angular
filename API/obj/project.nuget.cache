@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Om0INmpWWZp4OHPXcACwPhgms0/fIYxgEaSlq6PJpunB4W97vdWpJEojPOJ+Zlg7EEQrYdSsL9Q2KTQ5hUAIkg==",
+  "dgSpecHash": "nXMVzcAwltvW9SI+Rb+7JqbqxjYWWz5SKn/9YUPIqxqqRS3RhTXccWe5BaWBYt4pDtKNFx8e1rR0FspucrfMfg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Pablo_Camarotta\\Desktop\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pablo_Camarotta\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Pablo_Camarotta\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.8\\microsoft.aspnetcore.authentication.jwtbearer.6.0.8.nupkg.sha512",
     "C:\\Users\\Pablo_Camarotta\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Pablo_Camarotta\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.8\\microsoft.data.sqlite.core.6.0.8.nupkg.sha512",
     "C:\\Users\\Pablo_Camarotta\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
@@ -28,6 +29,8 @@
     "C:\\Users\\Pablo_Camarotta\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.1\\microsoft.identitymodel.abstractions.6.22.1.nupkg.sha512",
     "C:\\Users\\Pablo_Camarotta\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.22.1\\microsoft.identitymodel.jsonwebtokens.6.22.1.nupkg.sha512",
     "C:\\Users\\Pablo_Camarotta\\.nuget\\packages\\microsoft.identitymodel.logging\\6.22.1\\microsoft.identitymodel.logging.6.22.1.nupkg.sha512",
+    "C:\\Users\\Pablo_Camarotta\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\Pablo_Camarotta\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
     "C:\\Users\\Pablo_Camarotta\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.22.1\\microsoft.identitymodel.tokens.6.22.1.nupkg.sha512",
     "C:\\Users\\Pablo_Camarotta\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Pablo_Camarotta\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
